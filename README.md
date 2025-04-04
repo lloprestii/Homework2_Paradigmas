@@ -1,1 +1,1 @@
-# Homework2_Paradigmas
+Para correr los ejercicios necesitas tener instalado makefile. Luego parate en la carpeta el ejercicio correspondiente y ejecuta el comando 'make' en la consola.
